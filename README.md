@@ -6,6 +6,7 @@ I build Python and SQL projects covering data preparation, model training, evalu
 
 ## Featured projects
 
+- [AI Document Intelligence Assistant](https://github.com/patrickfelder777-cpu/ai-document-intelligence-assistant) — A RAG-powered PDF question-answering application built with FastAPI, ChromaDB, Streamlit, and Docker, featuring source citations, 72 automated tests, and CI/CD.
 - [Diabetes Risk ML Project](https://github.com/patrickfelder777-cpu/diabetes-risk-ml-project) — A Random Forest classification workflow with model evaluation and a saved model artifact.
 - [Employee Attrition MLOps](https://github.com/patrickfelder777-cpu/employee-attrition-mlops) — An employee attrition project exploring experiment tracking, data versioning, monitoring, and tests.
 - [Adult Income LLM Capstone](https://github.com/patrickfelder777-cpu/adult-income-llm-capstone) — An income classification project with a Streamlit app and experiments with LLM integration.
